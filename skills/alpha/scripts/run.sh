@@ -1,2 +1,2 @@
 #!/bin/sh
-head -n 3 "$1"
+head -n 5 "$1"
